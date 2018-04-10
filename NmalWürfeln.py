@@ -1,5 +1,6 @@
 import random
-n = 100000000
+import sys
+n = int(sys.argv[1])
 b = []
 for i in range (0,n):
     a = random.randint(1,6)
