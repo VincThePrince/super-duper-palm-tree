@@ -8,3 +8,5 @@ for i in range (0,n):
 c = sum(b)
 M = c/n
 print(M)
+
+print("Stef stinkt")
